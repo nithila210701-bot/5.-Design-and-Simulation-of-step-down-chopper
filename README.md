@@ -60,3 +60,4 @@ Current Ripple (Delta I) = 0.1A
 
 ## Result
 Thus the experiment is simulated and has been verified by using MATLAB.
+
